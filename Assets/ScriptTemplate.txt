@@ -1,0 +1,7 @@
+﻿1. Private在上Public在下，然後都要標示#region Public/Private variable defination。
+2. Region開頭請以大寫(英文)開始，並注意基礎文法，日文請多用漢字。
+3. 對於每個functiion請都用region來簡短描述功能。
+4. 註解掉的部分請注意，單行註解務必加在程式碼後面，在雙斜線後請多加一個空白(英文的空白)切勿使用tab，多行註解務必注意註解符號必須獨自一行，而每一行註解前都必須加上一顆星星以及一個空白。
+5. If、else if、else請以}else if{、}else{的方式撰寫
+6. 變數定義完之後，function開頭請以Start、Update作為第一以及第二個function(若有的話)，然後才能撰寫其他函式，並注意函式最後以OnGUI收尾(若有的話)
+7. Publish message務必加上並請扼要說明，盡量不要超過50個單字。
