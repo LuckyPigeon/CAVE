@@ -1,0 +1,13 @@
+*.asset
+*.csproj
+*.info
+*.md
+*.prefs
+*.resS
+*.sln
+*.txt
+*.userprefs
+level0
+ScriptMapper
+unity_builtin_extra
+ProjectSettings/
